@@ -1,0 +1,15 @@
+LIC                     The LIC criterion is to determine the most
+                        informative subsets so that the subset can
+                        retain most of the information contained in the
+                        complete data.
+OSA                     The OSA gives a simple average estimatoris by
+                        averaging all these least squares estimators.
+OSM                     The OSM is a median processing method for the
+                        central processor.
+Opt1                    The Opt1 chooses the optimal index subset based
+                        on minimized interval length.
+Opt2                    The Opt2 chooses the optimal index subset based
+                        on maximized information sub-matrix.
+airfoil                 Airfoil self-noise
+estate                  Real estate valuation
+gt2015                  Gas turbine NOx emission
